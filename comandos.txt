@@ -1,5 +1,10 @@
 Passo a passo - Exercicio
 
+Baixar
+   1. Git download
+   2. TortoiseGit download
+   3. Visual studio code download
+
 #Clonar o projeto
 git.exe clone --progress -v "https://github.com/Cristianomeneses2008/gitaula.git" "C:\git\gitaula"
 
